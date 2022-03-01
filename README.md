@@ -8,7 +8,7 @@ This project is  for finding duplicate file in the directory. also this project 
 - it doesn't need any kind of installation
 
 ## Usage
-- run file Main.py 
+- run the file Main.py 
 
 
 ## Maintainer
